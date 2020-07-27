@@ -3,7 +3,7 @@
 AdHocLib version 1.0.1 - Apps repository
 
 This repository contains all the apps that have been designed with 
-the AdHocLib. The library is hosted at the following [address]<https://github.com/gaulthiergain/AdHocLib>
+the AdHocLib. The library is hosted at the following [address](https://github.com/gaulthiergain/AdHocLib).
 
 ### What is AdHocLib?
 
