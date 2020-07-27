@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimonGameAdHoc</string>
+    <string name="button_play">Launch Game</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="button_connect">Connect</string>
+    <string name="check">Check</string>
+    <string name="disconnect">disconnect</string>
+    <string name="scores">scores</string>
+    <string name="waitGame">Waiting</string>
+</resources>

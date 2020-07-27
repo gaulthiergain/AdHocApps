@@ -1,0 +1,15 @@
+com.montefiore.gaulthiergain.adhoclibrary
+com.montefiore.gaulthiergain.adhoclibrary.appframework
+com.montefiore.gaulthiergain.adhoclibrary.appframework.exceptions
+com.montefiore.gaulthiergain.adhoclibrary.datalink.bluetooth
+com.montefiore.gaulthiergain.adhoclibrary.datalink.exceptions
+com.montefiore.gaulthiergain.adhoclibrary.datalink.json
+com.montefiore.gaulthiergain.adhoclibrary.datalink.service
+com.montefiore.gaulthiergain.adhoclibrary.datalink.sockets
+com.montefiore.gaulthiergain.adhoclibrary.datalink.threadmanager
+com.montefiore.gaulthiergain.adhoclibrary.datalink.udpwifi
+com.montefiore.gaulthiergain.adhoclibrary.datalink.util
+com.montefiore.gaulthiergain.adhoclibrary.datalink.wifi
+com.montefiore.gaulthiergain.adhoclibrary.network.aodv
+com.montefiore.gaulthiergain.adhoclibrary.network.datalinkmanager
+com.montefiore.gaulthiergain.adhoclibrary.network.exceptions

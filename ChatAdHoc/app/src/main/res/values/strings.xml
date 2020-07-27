@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatAdHoc</string>
+    <string name="write_message">Write a message</string>
+    <string name="placeholder_message">Placeholder message</string>
+</resources>

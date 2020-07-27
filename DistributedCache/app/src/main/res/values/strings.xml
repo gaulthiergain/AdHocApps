@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DistributedCache</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_connect">Connect</string>
+    <string name="getPaired">Get bt Paired</string>
+    <string name="search_music">search music</string>
+    <string name="songname">song Name</string>
+    <string name="songduration">song Duration</string>
+</resources>

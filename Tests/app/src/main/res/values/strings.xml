@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_send">Send</string>
+    <string name="message_to_send">Message</string>
+    <string name="disable_bt">Disable Bluetooth</string>
+    <string name="enable_bt">Enable Bluetooth</string>
+    <string name="disable_wifi">Disable Wifi</string>
+    <string name="enable_wifi">Enable Wifi</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="getPaired">Paired Bt</string>
+    <string name="remove_group">Remove Group</string>
+    <string name="is_groupOwner">Is groupOwner?</string>
+    <string name="get_neighbors">Get neighbors</string>
+</resources>
